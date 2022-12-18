@@ -42,8 +42,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 ![server side output](./images/serversideoutput.png)
-![client side output](./images/clientsideideoutput.png)
-
+![client side output](./images/clientsideoutput.png)
 
 
 ## RESULT
